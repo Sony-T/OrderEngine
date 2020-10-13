@@ -1,0 +1,4 @@
+C:\SampleProjects\ScratchProject\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe
+C:\SampleProjects\ScratchProject\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.pdb
+C:\SampleProjects\ScratchProject\BusinessRulesEngine\BusinessRulesEngine\obj\x86\Debug\BusinessRulesEngine.exe
+C:\SampleProjects\ScratchProject\BusinessRulesEngine\BusinessRulesEngine\obj\x86\Debug\BusinessRulesEngine.pdb
